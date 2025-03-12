@@ -1,3 +1,5 @@
+<br clear="both">
+
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/61256810?s=400&u=aa6136c51009ed4d8f81b5d1f0191ee6e75eb3bd&v=4"  />
 
 ###
@@ -111,14 +113,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white&style=for-the-badge" height="40" alt="solidity logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaitranntt&radius=16&theme=github-dark-dimmed&area=true&order=5&hide_border=true&hide_title=false&custom_title=Activity%20Graph" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
