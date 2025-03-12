@@ -1,9 +1,3 @@
-<br clear="both">
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/61256810?s=400&u=aa6136c51009ed4d8f81b5d1f0191ee6e75eb3bd&v=4"  />
-
-###
-
 <h1 align="center">Hi, I'm Kai 👋</h1>
 
 ###
