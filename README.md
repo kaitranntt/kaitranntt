@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm from 🇻🇳 Vietnam, currently in 🇨🇦 Montreal<br><br>- 🔭 I'm working as Software Engineer | Tech Enthusiast | Crypto Miner<br>- 📚 I'm currently learning French & Automation with AI<br>- ⚡ In my free time, I experiment with self-hosting, play volleyball and cook good foods.</p>
+<p align="left">I'm from 🇻🇳 Vietnam, currently in 🇨🇦 Montreal<br><br>- 🔭 I'm working as Software Engineer - DevOps & Systems | Tech Enthusiast | Crypto Miner<br>- 📚 I'm currently learning French & Automation with AI<br>- ⚡ In my free time, I experiment with self-hosting, play volleyball and cook good foods.</p>
 
 ###
 
