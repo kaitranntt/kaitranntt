@@ -1,6 +1,27 @@
+<table>
+<tr>
+<td width="35%" valign="middle">
+
+<div align="center">
+
+<a href="https://resume.kaitran.ca" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=View%20Resume&logo=readme&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="resume link"  />
+</a>
+
+<br><br>
+
+**Full resume, projects, and technical details**
+
+[resume.kaitran.ca](https://resume.kaitran.ca)
+
+</div>
+
+</td>
+<td width="65%" valign="middle">
+
 <h1 align="center">Hi, I'm Kai 👋</h1>
 
-###
+<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kaitranntt/" target="_blank">
@@ -17,19 +38,21 @@
   </a>
 </div>
 
-###
+</td>
+</tr>
+</table>
+
+<br>
 
 <h3 align="left">👨‍💻 About me</h3>
 
-###
-
 <p align="left">I'm from 🇻🇳 Vietnam, currently in 🇨🇦 Montreal<br><br>- 🔭 I'm working as Software Engineer - DevOps & Systems | Tech Enthusiast | Crypto Miner<br>- 📚 I'm currently learning French & Automation with AI<br>- ⚡ I experiment with self-hosting, play volleyball/basketball/pickleball and cook good foods.</p>
 
-###
+<br>
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
+<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=black&style=for-the-badge" height="40" alt="tensorflow logo"  />
@@ -41,9 +64,7 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" height="40" alt="opencv logo"  />
 </div>
 
-###
-
-<br clear="both">
+<br>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
@@ -59,7 +80,7 @@
   <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
 </div>
 
-###
+<br>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
@@ -79,7 +100,7 @@
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
 </div>
 
-###
+<br>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
@@ -97,7 +118,7 @@
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
 </div>
 
-###
+<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white&style=for-the-badge" height="40" alt="apple logo"  />
@@ -108,5 +129,3 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white&style=for-the-badge" height="40" alt="solidity logo"  />
 </div>
-
-###
