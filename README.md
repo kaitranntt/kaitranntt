@@ -23,13 +23,11 @@
   </a>
 </div>
 
-<p align="center"><i>Full resume, projects, and technical details at <a href="https://resume.kaitran.ca">resume.kaitran.ca</a></i></p>
-
 <br>
 
 <h3 align="left">👨‍💻 About me</h3>
 
-<p align="left">I'm from 🇻🇳 Vietnam, currently in 🇨🇦 Montreal<br><br>- 🔭 I'm working as Software Engineer - DevOps & Systems | Tech Enthusiast | Crypto Miner<br>- 📚 I'm currently learning French & Automation with AI<br>- ⚡ I experiment with self-hosting, play volleyball/basketball/pickleball and cook good foods.</p>
+<p align="left">🇻🇳 Vietnam → 🇨🇦 Montreal<br><br>- Software Engineer @ DevOps & Systems | Edge AI | Cloud Infrastructure<br>- Learning French & AI automation<br>- Into self-hosting, volleyball/basketball/pickleball, cooking</p>
 
 <br>
 
