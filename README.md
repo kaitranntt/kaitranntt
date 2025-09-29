@@ -1,27 +1,4 @@
-<table>
-<tr>
-<td width="35%" valign="middle">
-
-<div align="center">
-
-<a href="https://resume.kaitran.ca" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=View%20Resume&logo=readme&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="resume link"  />
-</a>
-
-<br><br>
-
-**Full resume, projects, and technical details**
-
-[resume.kaitran.ca](https://resume.kaitran.ca)
-
-</div>
-
-</td>
-<td width="65%" valign="middle">
-
 <h1 align="center">Hi, I'm Kai 👋</h1>
-
-<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kaitranntt/" target="_blank">
@@ -38,9 +15,15 @@
   </a>
 </div>
 
-</td>
-</tr>
-</table>
+<br>
+
+<div align="center">
+  <a href="https://resume.kaitran.ca" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=View%20Resume&logo=readme&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="resume link"  />
+  </a>
+</div>
+
+<p align="center"><i>Full resume, projects, and technical details at <a href="https://resume.kaitran.ca">resume.kaitran.ca</a></i></p>
 
 <br>
 
