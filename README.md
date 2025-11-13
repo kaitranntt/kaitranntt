@@ -10,26 +10,20 @@
   <a href="https://www.facebook.com/kaitran.ntt/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
-  <a href="https://www.youtube.com/@hebetude_kai" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://resume.kaitran.ca" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=View%20Resume&logo=readme&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="resume link"  />
-  </a>
 </div>
 
 <br>
 
 <h3 align="left">👨‍💻 About me</h3>
 
-<p align="left">🇻🇳 Vietnam → 🇨🇦 Montreal<br><br>- Software Engineer @ DevOps & Systems | Edge AI | Cloud Infrastructure<br>- Learning French & AI automation<br>- Into self-hosting, volleyball/basketball/pickleball, cooking</p>
+<p align="left">
+🇻🇳 Vietnam → 🇨🇦 Montreal<br><br>
 
-<br>
+- <strong>AI & Cloud Software Engineer</strong> building automation, tooling, and resilient distributed systems<br>
+- Shipped production-grade platforms across <strong>AWS</strong> with speed, scale, and zero drama<br>
+- <strong>Open-source builder</strong>: ccs (Claude Code Switch), ATSense JobHunt, macOS Automation suite,... and many more<br>
+- Always shipping. Always optimizing.<br><br>
+</p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -64,6 +58,8 @@
 <br>
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=next" height="40" alt="react logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
@@ -96,7 +92,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
 </div>
 
 <br>
