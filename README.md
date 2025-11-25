@@ -21,7 +21,7 @@
 
 - <strong>AI & Cloud Software Engineer</strong> building automation, tooling, and resilient distributed systems<br>
 - Shipped production-grade platforms across <strong>AWS</strong> with speed, scale, and zero drama<br>
-- <strong>Open-source builder</strong>: ccs (Claude Code Switch), ATSense JobHunt, macOS Automation suite,... and many more<br>
+- <strong>Open-source builder</strong>: ccs (Claude Code Switch), ClaudeKit (Claude Code Framework), ATSense JobHunt, macOS Automation suite,... and many more<br>
 - Always shipping. Always optimizing.<br><br>
 </p>
 
