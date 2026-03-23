@@ -50,6 +50,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
