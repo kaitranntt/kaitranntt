@@ -22,10 +22,9 @@
 <p align="left">
 🇻🇳 Vietnam → 🇨🇦 Montreal<br><br>
 
-- <strong>Software Engineer</strong> building production AI platforms, backend services, and developer tooling in <strong>Go, TypeScript, and Python</strong><br>
-- Technical lead on a <strong>194K LOC</strong> multi-tenant AI agent gateway serving <strong>20+ LLM providers</strong> across 7 messaging channels<br>
-- Creator of <strong><a href="https://github.com/kaitranntt/ccs">CCS</a></strong> (Claude Code Switch) with <strong>1,800+ GitHub stars</strong>, 600+ releases, and 90K lines of TypeScript<br>
-- Shipped 91 AWS Lambda functions, real-time CV pipelines at 30 FPS, and a 50+ device platform at 99.9% uptime<br>
+- <strong>Software Engineer</strong> who builds AI platforms, backend services, and developer tools in <strong>Go, TypeScript, and Python</strong><br>
+- Creator of <strong><a href="https://github.com/kaitranntt/ccs">CCS</a></strong> (Claude Code Switch) and contributor to <strong><a href="https://github.com/anthropics/claude-code">Claude Code</a></strong>, <strong><a href="https://github.com/kaitranntt">ClaudeKit</a></strong>, and <strong><a href="https://github.com/tgoclaw/goclaw">GoClaw</a></strong><br>
+- Mostly found building things with LLMs, breaking CI pipelines, and fixing them before anyone notices<br>
 - Always shipping. Always optimizing.<br><br>
 </p>
 
