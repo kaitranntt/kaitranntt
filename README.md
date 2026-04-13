@@ -23,7 +23,7 @@
 🇻🇳 Vietnam → 🇨🇦 Montreal<br><br>
 
 - <strong>Software Engineer</strong> who builds AI platforms, backend services, and developer tools in <strong>Go, TypeScript, and Python</strong><br>
-- Creator of <strong><a href="https://github.com/kaitranntt/ccs">CCS</a></strong> (Claude Code Switch) and contributor to <strong><a href="https://github.com/router-for-me/CLIProxyAPI">CLIProxyAPI</a></strong>, <strong><a href="https://github.com/kaitranntt">ClaudeKit</a></strong>, and <strong><a href="https://github.com/tgoclaw/goclaw">GoClaw</a></strong><br>
+- Creator of <strong><a href="https://github.com/kaitranntt/ccs">CCS</a></strong> (Claude Code Switch), maintainer of <strong><a href="https://github.com/kaitranntt">ClaudeKit</a></strong>, and contributor to <strong><a href="https://github.com/router-for-me/CLIProxyAPI">CLIProxyAPI</a></strong> and <strong><a href="https://github.com/tgoclaw/goclaw">GoClaw</a></strong><br>
 - Mostly found building things with LLMs, breaking CI pipelines, and fixing them before anyone notices<br>
 - Always shipping. Always optimizing.<br><br>
 </p>
