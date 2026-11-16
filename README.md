@@ -22,9 +22,9 @@
 <p align="left">
 🇻🇳 Vietnam → 🇨🇦 Montreal → 🇨🇦 Calgary<br><br>
 
-- <strong>Applied AI & Software Engineer</strong> building autonomous agent systems, AI platforms, backend services, and developer tools in <strong>Python, TypeScript, and Go</strong><br>
+- <strong>Applied AI & Software Engineer.</strong> I build agents and the tools around them. Python, TypeScript, Go.<br>
 - Publicly acknowledged contributor to Cognition Labs' <strong><a href="https://cognition.com/blog/frontier-code-2.0">FrontierCode 2.0</a></strong> benchmark evaluating coding agent PR mergeability<br>
-- Creator of <strong><a href="https://github.com/kaitranntt/ccs">CCS</a></strong> (Claude Code Switch), maintainer of <strong><a href="https://github.com/kaitranntt">ClaudeKit</a></strong>, and contributor to <strong><a href="https://github.com/router-for-me/CLIProxyAPI">CLIProxyAPI</a></strong> and <strong><a href="https://github.com/tgoclaw/goclaw">GoClaw</a></strong><br>
+- Creator of <strong><a href="https://github.com/kaitranntt/ccs">CCS</a></strong> (Claude Code Switch), maintainer of <strong><a href="https://agentkit.best">AgentKit</a></strong> (formerly ClaudeKit), and contributor to <strong><a href="https://github.com/router-for-me/CLIProxyAPI">CLIProxyAPI</a></strong> and <strong><a href="https://github.com/tgoclaw/goclaw">GoClaw</a></strong><br>
 - Mostly found building things with LLMs, evaluating coding agents, and optimizing developer workflows<br>
 - Always shipping. Always optimizing.<br><br>
 </p>
